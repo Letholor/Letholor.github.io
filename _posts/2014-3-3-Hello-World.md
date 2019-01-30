@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome one and all!
 ---
 
 This is my first blog and it will be dedicated to my journey to becoming a programmer.
