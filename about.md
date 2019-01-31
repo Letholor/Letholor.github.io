@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a father to four lovely children and a partner to my loving spouse! Willing to learn as much as I can in order to make myself a more successful IT Professional. Join me on my journey to be a game developer and general purpose programmer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+C#, Java, C++, Graphic Design, Foreign Language
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+letholor@gmail.com
